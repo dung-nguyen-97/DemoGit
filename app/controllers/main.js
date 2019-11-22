@@ -1,7 +1,7 @@
 var nguoiDungService = new NguoiDungService();
 
 function themNguoiDungDemoGit(){
-  console.log("themNguoiDungDemoGit");
+  console.log("themNguoiDung");
 }
 
 getListUser();
